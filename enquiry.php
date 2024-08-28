@@ -101,7 +101,7 @@ $error="Something went wrong. Please try again";
 
 
 	<p style="width: 350px;">
-<b>Mobile No</b>  <input type="text" name="mobileno"  class="form-control" id="mobileno" maxlength="10" placeholder="10 Digit mobile No" required pattern="[0-9]{10}" required="">
+<b>Mobile No</b>  <input type="text" name="mobileno"  class="form-control" id="mobileno" maxlength="16" placeholder="10 Digit mobile No" required pattern="[0-9]{10}" required="">
 	</p> 
 
 	<p style="width: 350px;">
