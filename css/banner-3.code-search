@@ -1,0 +1,76 @@
+# Query: banner-3
+# Flags: CaseSensitive
+# ContextLines: 1
+
+17 results - 3 files
+
+package-details.php:
+  84  <?php include('includes/header.php');?>
+  85: <div class="banner-3">
+  86  	<div class="container">
+
+package-list.php:
+  32  <!--- banner ---->
+  33: <div class="banner-3">
+  34  	<div class="container">
+
+css\style.css:
+   774  }
+   775: .banner-3 {
+   776      background: url(../images/6.jpg)no-repeat;
+
+   790  }
+   791: .banner-3 h1 {
+   792      font-size: 50px;
+
+  2354  }
+  2355: .banner-1 h1,.banner-2 h1,.banner-3 h1 {
+  2356      padding: 1.8em 0 0;
+
+  2541  }
+  2542: .banner-1 h1,.banner-2 h1,.banner-3 h1 {
+  2543      padding: 1.8em 0 0;
+
+  2772  }
+  2773: .banner-1 h1,.banner-2 h1,.banner-3 h1 {
+  2774      padding: 1.5em 0 0;
+
+  2831  }
+  2832: .banner-1 h1,.banner-2 h1,.banner-3 h1 {
+  2833      padding: 1.2em 0 0;
+
+  2921  }
+  2922: .banner-1 h1,.banner-3 h1{
+  2923      padding: 1.7em 0 0;
+
+  2944  }
+  2945: .banner-3 {
+  2946      min-height: 190px;
+
+  3198  }
+  3199: .banner-1 h1,.banner-2 h1,.banner-3 h1{
+  3200      font-size: 26px;
+
+  3456  }
+  3457: .banner h1,.banner-2 h1,.banner-3 h1 {
+  3458      padding: 2.7em 0 0;
+
+  3613  }
+  3614: .banner-3 {
+  3615      min-height: 160px;
+
+  3838  }
+  3839: .banner h1,.banner-2 h1,.banner-3 h1 {
+  3840      padding: 1.7em 0 0;
+
+  3922  }
+  3923: .banner h1,.banner-2 h1,.banner-3 h1 {
+  3924      padding: 1.7em 0 0;
+
+  4008  }
+  4009: .banner-1 h1,.banner-2 h1,.banner-3 h1{
+  4010      font-size: 22px;
+
+  4256  }
+  4257: .banner-3 {
+  4258      min-height: 130px;
