@@ -40,7 +40,7 @@
 <div class="header">
 	<div class="container">
 		<div class="logo wow fadeInDown animated" data-wow-delay=".5s">
-			<a href="index.php"> <span>TechGram</span></a>	
+			<a href="index.php"> <span>TechGram (E-gram)</span></a>	
 		</div>
 	
 		<!--<div class="lock fadeInDown animated" data-wow-delay=".5s"> 
