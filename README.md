@@ -1,0 +1,1 @@
+a simplified work-based accounting application to address various aspects of Panchayat functioning. The erstwhile applications governing these separate functions have been strung together for the purpose of simplification.
