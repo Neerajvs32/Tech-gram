@@ -95,7 +95,7 @@ $error="Something went wrong. Please try again";
 	</p> 
 
 	<p style="width: 350px;">
-    <b>Email</b>
+    <b>Email id</b>
     <input type="email" name="email" class="form-control" id="email" placeholder="Valid Email id" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}" title="Please enter a valid email" required>
 </p>
 
